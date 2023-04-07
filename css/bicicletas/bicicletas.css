@@ -51,7 +51,7 @@
   content: "";
   display: block;
   width: 12px;
-  height: 8px;
+  height: 0px;
   background-color: var(--cor-p1);
   margin-bottom: 8px;
 }
