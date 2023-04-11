@@ -1,9 +1,13 @@
 .bicicletas-bg:nth-child(odd) {
   background-image: linear-gradient(
     to right,
-    var(--cor-0) 30%,
+    var(--cor-0) 100%,
     var(--cor-11) 0%
   );
+}
+
+.titulo {
+  background: white;
 }
 
 .bicicletas {
